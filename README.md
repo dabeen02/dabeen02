@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E6E6FA,100:98FF98&text=🌟%20Welcome%20to%20dabeen's%20Github%20🌟&fontAlign=50&fontSize=30&fontColor=FFFFFF&stroke=000000&strokeWidth=2" style="display: block; margin: 0 auto;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E6E6FA,100:98FF98&text=%20Welcome%20to%20dabeen's%20Github%20&fontAlign=50&fontSize=30&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=1" style="display: block; margin: 0 auto;">
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -34,10 +34,14 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@dabeen023">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp;
   </a>
   <a href="mailto:dabeen023@gmail.com">
-  <img src="https://img.shields.io/badge/dabeen023@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;
-</a>
+    <img src="https://img.shields.io/badge/dabeen023@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;
+  </a>
+  <a href="https://www.instagram.com/h0ng__d.b">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp;
+  </a>
+</div>
 
 </div>
